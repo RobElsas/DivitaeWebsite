@@ -218,6 +218,7 @@ p {
 .tm-slider-img {
     padding-left: 10px;
     padding-right: 10px;
+    height: 150px;
 }
 
 .slick-dots li button:before {
